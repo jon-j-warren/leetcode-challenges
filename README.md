@@ -1,1 +1,6 @@
-# leetcode-challenges
+# LeetCode Challenges
+At the time of writing this, the project that I'm currently working on is very backend-focused. In an attempt to improve my problem-solving abilities (but more importantly, fill the void left in my heart from stepping away from JavaScript for this project), I've decided to take on a LeetCode challenge or two every day (mostly on weekdays over Lunch or in the morning before I start my routine, may miss a day here or there based on schedule).
+
+The repo's root will contain a new folder for each challenge with a naming format of `#${CHALLENGE_NUMBER} - ${CHALLENGE_NAME}`. In each folder, there will be a *README.md* file that contains the question, a `template.js` file that contains the template for the solution that LeetCode has provided, and a subfolder called *solutions*. In that subfolder, I'll post a separate one file for each solution, with a naming format of `solution${SOLUTION_NUMBER}.js`.
+
+The actual solution will involve only native ES6 code (no external dependencies / libraries unless specifically stated in the challenge description). I'll also provide a comment at the top of the file that indicates the relative stats that LeetCode provides with regards to how my solution compares to that of other developers.
