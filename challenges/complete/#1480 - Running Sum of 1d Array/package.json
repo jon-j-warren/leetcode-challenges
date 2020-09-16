@@ -1,7 +1,8 @@
 {
-  "name": "challenge-3",
+  "name": "challenge-1480",
+  "homepage": "https://leetcode.com/problems/running-sum-of-1d-array",
   "version": "1.0.0",
-  "description": "Longest Substring Without Repeating Characters",
+  "description": "Running Sum of 1d Array",
   "main": "solution.js",
   "scripts": {
     "test": "jest"

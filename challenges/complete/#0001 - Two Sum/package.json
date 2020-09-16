@@ -1,5 +1,6 @@
 {
   "name": "challenge-1",
+  "homepage": "https://leetcode.com/problems/two-sum",
   "version": "1.0.0",
   "description": "Two Sum",
   "main": "solution.js",

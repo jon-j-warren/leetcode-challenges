@@ -1,7 +1,8 @@
 {
-  "name": "challenge-1480",
+  "name": "challenge-2",
+  "homepage": "https://leetcode.com/problems/add-two-numbers",
   "version": "1.0.0",
-  "description": "Running Sum of 1d Array",
+  "description": "Add Two Numbers",
   "main": "solution.js",
   "scripts": {
     "test": "jest"

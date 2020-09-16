@@ -1,7 +1,8 @@
 {
-  "name": "challenge-2",
+  "name": "challenge-3",
+  "homepage": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
   "version": "1.0.0",
-  "description": "Add Two Numbers",
+  "description": "Longest Substring Without Repeating Characters",
   "main": "solution.js",
   "scripts": {
     "test": "jest"
