@@ -46,5 +46,5 @@ const addTwoNumbers = (l1, l2) => {
       which results in data loss.
     * Made use of some optional chaining since I realized that the arrays could have different sizes.
     * Earlier attempts had me trying to sum the list values sequentially, but eventually I found it was easier to just
-      sum them together and track the varry value.
+      sum them together and track the carry value.
 */
