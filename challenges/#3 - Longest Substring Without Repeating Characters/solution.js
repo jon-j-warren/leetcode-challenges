@@ -26,6 +26,8 @@ const containsRepeatingCharacters = s => {
     return s.length !== (new Set(s.split(''))).size;
 }
 
+module.exports = { lengthOfLongestSubstring };
+
 /*
     * Efficiency wasn't great, but my lunch break was running out of time
     * A better solution might involve starting at the largest substring and working your way backwards
