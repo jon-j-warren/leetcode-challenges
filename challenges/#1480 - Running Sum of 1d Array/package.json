@@ -1,0 +1,14 @@
+{
+  "name": "challenge-1480",
+  "version": "1.0.0",
+  "description": "Running Sum of 1d Array",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jon Warren",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^26.4.2"
+  }
+}
