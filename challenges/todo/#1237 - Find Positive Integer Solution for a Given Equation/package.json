@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1237",
+    "homepage": "https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation",
+    "version": "1.0.0",
+    "description": "Find Positive Integer Solution for a Given Equation",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-184",
+    "homepage": "https://leetcode.com/problems/department-highest-salary",
+    "version": "1.0.0",
+    "description": "Department Highest Salary",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

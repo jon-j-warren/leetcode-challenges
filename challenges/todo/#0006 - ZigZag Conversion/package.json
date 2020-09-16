@@ -1,0 +1,15 @@
+{
+    "name": "challenge-6",
+    "homepage": "https://leetcode.com/problems/zigzag-conversion",
+    "version": "1.0.0",
+    "description": "ZigZag Conversion",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

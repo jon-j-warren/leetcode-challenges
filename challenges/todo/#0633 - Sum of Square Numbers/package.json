@@ -1,0 +1,15 @@
+{
+    "name": "challenge-633",
+    "homepage": "https://leetcode.com/problems/sum-of-square-numbers",
+    "version": "1.0.0",
+    "description": "Sum of Square Numbers",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1144",
+    "homepage": "https://leetcode.com/problems/decrease-elements-to-make-array-zigzag",
+    "version": "1.0.0",
+    "description": "Decrease Elements To Make Array Zigzag",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

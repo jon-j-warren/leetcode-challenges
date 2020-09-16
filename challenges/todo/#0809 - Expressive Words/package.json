@@ -1,0 +1,15 @@
+{
+    "name": "challenge-809",
+    "homepage": "https://leetcode.com/problems/expressive-words",
+    "version": "1.0.0",
+    "description": "Expressive Words",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

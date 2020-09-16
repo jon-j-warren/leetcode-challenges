@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1172",
+    "homepage": "https://leetcode.com/problems/dinner-plate-stacks",
+    "version": "1.0.0",
+    "description": "Dinner Plate Stacks",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

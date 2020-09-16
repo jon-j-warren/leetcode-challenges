@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1408",
+    "homepage": "https://leetcode.com/problems/string-matching-in-an-array",
+    "version": "1.0.0",
+    "description": "String Matching in an Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

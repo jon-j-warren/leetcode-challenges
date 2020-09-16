@@ -1,0 +1,15 @@
+{
+    "name": "challenge-615",
+    "homepage": "https://leetcode.com/problems/average-salary-departments-vs-company",
+    "version": "1.0.0",
+    "description": "Average Salary: Departments VS Company",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

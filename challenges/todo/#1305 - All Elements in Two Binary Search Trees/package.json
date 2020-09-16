@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1305",
+    "homepage": "https://leetcode.com/problems/all-elements-in-two-binary-search-trees",
+    "version": "1.0.0",
+    "description": "All Elements in Two Binary Search Trees",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

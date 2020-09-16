@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1160",
+    "homepage": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+    "version": "1.0.0",
+    "description": "Find Words That Can Be Formed by Characters",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

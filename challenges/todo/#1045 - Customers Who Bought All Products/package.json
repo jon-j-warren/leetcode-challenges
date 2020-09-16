@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1045",
+    "homepage": "https://leetcode.com/problems/customers-who-bought-all-products",
+    "version": "1.0.0",
+    "description": "Customers Who Bought All Products",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

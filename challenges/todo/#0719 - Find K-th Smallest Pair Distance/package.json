@@ -1,0 +1,15 @@
+{
+    "name": "challenge-719",
+    "homepage": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
+    "version": "1.0.0",
+    "description": "Find K-th Smallest Pair Distance",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

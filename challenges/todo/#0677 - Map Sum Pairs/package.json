@@ -1,0 +1,15 @@
+{
+    "name": "challenge-677",
+    "homepage": "https://leetcode.com/problems/map-sum-pairs",
+    "version": "1.0.0",
+    "description": "Map Sum Pairs",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

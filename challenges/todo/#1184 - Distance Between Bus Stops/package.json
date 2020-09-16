@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1184",
+    "homepage": "https://leetcode.com/problems/distance-between-bus-stops",
+    "version": "1.0.0",
+    "description": "Distance Between Bus Stops",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-512",
+    "homepage": "https://leetcode.com/problems/game-play-analysis-ii",
+    "version": "1.0.0",
+    "description": "Game Play Analysis II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

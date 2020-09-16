@@ -1,0 +1,15 @@
+{
+    "name": "challenge-388",
+    "homepage": "https://leetcode.com/problems/longest-absolute-file-path",
+    "version": "1.0.0",
+    "description": "Longest Absolute File Path",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

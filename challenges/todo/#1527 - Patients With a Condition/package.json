@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1527",
+    "homepage": "https://leetcode.com/problems/patients-with-a-condition",
+    "version": "1.0.0",
+    "description": "Patients With a Condition",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

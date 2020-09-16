@@ -1,0 +1,15 @@
+{
+    "name": "challenge-347",
+    "homepage": "https://leetcode.com/problems/top-k-frequent-elements",
+    "version": "1.0.0",
+    "description": "Top K Frequent Elements",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

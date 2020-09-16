@@ -1,0 +1,15 @@
+{
+    "name": "challenge-241",
+    "homepage": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+    "version": "1.0.0",
+    "description": "Different Ways to Add Parentheses",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-752",
+    "homepage": "https://leetcode.com/problems/open-the-lock",
+    "version": "1.0.0",
+    "description": "Open the Lock",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

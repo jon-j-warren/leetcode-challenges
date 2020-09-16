@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1467",
+    "homepage": "https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+    "version": "1.0.0",
+    "description": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

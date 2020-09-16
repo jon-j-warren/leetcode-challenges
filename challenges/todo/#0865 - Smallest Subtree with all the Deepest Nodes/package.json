@@ -1,0 +1,15 @@
+{
+    "name": "challenge-865",
+    "homepage": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes",
+    "version": "1.0.0",
+    "description": "Smallest Subtree with all the Deepest Nodes",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

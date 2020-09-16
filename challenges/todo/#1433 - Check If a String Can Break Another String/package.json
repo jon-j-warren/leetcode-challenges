@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1433",
+    "homepage": "https://leetcode.com/problems/check-if-a-string-can-break-another-string",
+    "version": "1.0.0",
+    "description": "Check If a String Can Break Another String",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

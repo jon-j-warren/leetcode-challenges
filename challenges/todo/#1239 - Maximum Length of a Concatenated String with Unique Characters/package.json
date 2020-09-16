@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1239",
+    "homepage": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+    "version": "1.0.0",
+    "description": "Maximum Length of a Concatenated String with Unique Characters",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

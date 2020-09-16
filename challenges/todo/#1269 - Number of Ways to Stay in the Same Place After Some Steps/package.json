@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1269",
+    "homepage": "https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps",
+    "version": "1.0.0",
+    "description": "Number of Ways to Stay in the Same Place After Some Steps",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

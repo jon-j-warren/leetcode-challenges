@@ -1,0 +1,15 @@
+{
+    "name": "challenge-245",
+    "homepage": "https://leetcode.com/problems/shortest-word-distance-iii",
+    "version": "1.0.0",
+    "description": "Shortest Word Distance III",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

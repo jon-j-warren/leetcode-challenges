@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1451",
+    "homepage": "https://leetcode.com/problems/rearrange-words-in-a-sentence",
+    "version": "1.0.0",
+    "description": "Rearrange Words in a Sentence",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

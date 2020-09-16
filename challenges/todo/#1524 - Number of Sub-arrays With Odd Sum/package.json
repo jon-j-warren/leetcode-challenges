@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1524",
+    "homepage": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum",
+    "version": "1.0.0",
+    "description": "Number of Sub-arrays With Odd Sum",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1066",
+    "homepage": "https://leetcode.com/problems/campus-bikes-ii",
+    "version": "1.0.0",
+    "description": "Campus Bikes II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

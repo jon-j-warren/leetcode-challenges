@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1479",
+    "homepage": "https://leetcode.com/problems/sales-by-day-of-the-week",
+    "version": "1.0.0",
+    "description": "Sales by Day of the Week",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

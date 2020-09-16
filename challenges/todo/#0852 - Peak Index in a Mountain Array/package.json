@@ -1,0 +1,15 @@
+{
+    "name": "challenge-852",
+    "homepage": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+    "version": "1.0.0",
+    "description": "Peak Index in a Mountain Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

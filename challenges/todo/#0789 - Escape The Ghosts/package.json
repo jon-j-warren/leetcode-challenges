@@ -1,0 +1,15 @@
+{
+    "name": "challenge-789",
+    "homepage": "https://leetcode.com/problems/escape-the-ghosts",
+    "version": "1.0.0",
+    "description": "Escape The Ghosts",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

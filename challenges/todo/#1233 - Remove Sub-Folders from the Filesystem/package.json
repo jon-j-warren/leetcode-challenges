@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1233",
+    "homepage": "https://leetcode.com/problems/remove-sub-folders-from-the-filesystem",
+    "version": "1.0.0",
+    "description": "Remove Sub-Folders from the Filesystem",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

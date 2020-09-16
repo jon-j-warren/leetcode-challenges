@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1296",
+    "homepage": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers",
+    "version": "1.0.0",
+    "description": "Divide Array in Sets of K Consecutive Numbers",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

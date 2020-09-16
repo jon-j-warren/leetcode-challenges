@@ -1,0 +1,15 @@
+{
+    "name": "challenge-875",
+    "homepage": "https://leetcode.com/problems/koko-eating-bananas",
+    "version": "1.0.0",
+    "description": "Koko Eating Bananas",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

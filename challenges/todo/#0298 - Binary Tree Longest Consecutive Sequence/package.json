@@ -1,0 +1,15 @@
+{
+    "name": "challenge-298",
+    "homepage": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence",
+    "version": "1.0.0",
+    "description": "Binary Tree Longest Consecutive Sequence",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

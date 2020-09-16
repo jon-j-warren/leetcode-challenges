@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1357",
+    "homepage": "https://leetcode.com/problems/apply-discount-every-n-orders",
+    "version": "1.0.0",
+    "description": "Apply Discount Every n Orders",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

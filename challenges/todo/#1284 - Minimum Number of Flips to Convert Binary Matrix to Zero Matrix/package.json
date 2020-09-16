@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1284",
+    "homepage": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+    "version": "1.0.0",
+    "description": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-301",
+    "homepage": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "version": "1.0.0",
+    "description": "Remove Invalid Parentheses",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

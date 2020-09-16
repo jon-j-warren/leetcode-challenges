@@ -1,0 +1,15 @@
+{
+    "name": "challenge-295",
+    "homepage": "https://leetcode.com/problems/find-median-from-data-stream",
+    "version": "1.0.0",
+    "description": "Find Median from Data Stream",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

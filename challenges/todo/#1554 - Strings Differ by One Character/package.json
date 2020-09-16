@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1554",
+    "homepage": "https://leetcode.com/problems/strings-differ-by-one-character",
+    "version": "1.0.0",
+    "description": "Strings Differ by One Character",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

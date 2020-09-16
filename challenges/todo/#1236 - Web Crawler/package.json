@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1236",
+    "homepage": "https://leetcode.com/problems/web-crawler",
+    "version": "1.0.0",
+    "description": "Web Crawler",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

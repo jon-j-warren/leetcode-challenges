@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1038",
+    "homepage": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+    "version": "1.0.0",
+    "description": "Binary Search Tree to Greater Sum Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

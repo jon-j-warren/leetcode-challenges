@@ -1,0 +1,15 @@
+{
+    "name": "challenge-832",
+    "homepage": "https://leetcode.com/problems/flipping-an-image",
+    "version": "1.0.0",
+    "description": "Flipping an Image",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

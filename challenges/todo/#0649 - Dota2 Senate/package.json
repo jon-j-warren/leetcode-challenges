@@ -1,0 +1,15 @@
+{
+    "name": "challenge-649",
+    "homepage": "https://leetcode.com/problems/dota2-senate",
+    "version": "1.0.0",
+    "description": "Dota2 Senate",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

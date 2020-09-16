@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1519",
+    "homepage": "https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label",
+    "version": "1.0.0",
+    "description": "Number of Nodes in the Sub-Tree With the Same Label",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

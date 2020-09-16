@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1006",
+    "homepage": "https://leetcode.com/problems/clumsy-factorial",
+    "version": "1.0.0",
+    "description": "Clumsy Factorial",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

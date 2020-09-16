@@ -1,0 +1,15 @@
+{
+    "name": "challenge-701",
+    "homepage": "https://leetcode.com/problems/insert-into-a-binary-search-tree",
+    "version": "1.0.0",
+    "description": "Insert into a Binary Search Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

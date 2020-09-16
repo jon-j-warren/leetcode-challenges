@@ -1,0 +1,15 @@
+{
+    "name": "challenge-452",
+    "homepage": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+    "version": "1.0.0",
+    "description": "Minimum Number of Arrows to Burst Balloons",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-470",
+    "homepage": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "version": "1.0.0",
+    "description": "Implement Rand10() Using Rand7()",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

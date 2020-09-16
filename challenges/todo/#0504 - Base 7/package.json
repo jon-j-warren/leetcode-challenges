@@ -1,0 +1,15 @@
+{
+    "name": "challenge-504",
+    "homepage": "https://leetcode.com/problems/base-7",
+    "version": "1.0.0",
+    "description": "Base 7",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1022",
+    "homepage": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers",
+    "version": "1.0.0",
+    "description": "Sum of Root To Leaf Binary Numbers",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

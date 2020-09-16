@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1465",
+    "homepage": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+    "version": "1.0.0",
+    "description": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-793",
+    "homepage": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function",
+    "version": "1.0.0",
+    "description": "Preimage Size of Factorial Zeroes Function",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

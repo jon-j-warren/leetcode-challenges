@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1431",
+    "homepage": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies",
+    "version": "1.0.0",
+    "description": "Kids With the Greatest Number of Candies",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

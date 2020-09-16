@@ -1,0 +1,15 @@
+{
+    "name": "challenge-496",
+    "homepage": "https://leetcode.com/problems/next-greater-element-i",
+    "version": "1.0.0",
+    "description": "Next Greater Element I",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

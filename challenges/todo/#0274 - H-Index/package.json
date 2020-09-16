@@ -1,0 +1,15 @@
+{
+    "name": "challenge-274",
+    "homepage": "https://leetcode.com/problems/h-index",
+    "version": "1.0.0",
+    "description": "H-Index",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

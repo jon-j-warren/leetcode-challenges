@@ -1,0 +1,15 @@
+{
+    "name": "challenge-545",
+    "homepage": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "version": "1.0.0",
+    "description": "Boundary of Binary Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

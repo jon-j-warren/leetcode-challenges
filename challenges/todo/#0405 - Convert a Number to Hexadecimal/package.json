@@ -1,0 +1,15 @@
+{
+    "name": "challenge-405",
+    "homepage": "https://leetcode.com/problems/convert-a-number-to-hexadecimal",
+    "version": "1.0.0",
+    "description": "Convert a Number to Hexadecimal",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

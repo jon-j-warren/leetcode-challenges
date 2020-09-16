@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1401",
+    "homepage": "https://leetcode.com/problems/circle-and-rectangle-overlapping",
+    "version": "1.0.0",
+    "description": "Circle and Rectangle Overlapping",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

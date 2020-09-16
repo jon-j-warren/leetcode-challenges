@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1579",
+    "homepage": "https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable",
+    "version": "1.0.0",
+    "description": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

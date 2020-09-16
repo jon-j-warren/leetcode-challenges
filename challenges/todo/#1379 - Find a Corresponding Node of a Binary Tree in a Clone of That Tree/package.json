@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1379",
+    "homepage": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+    "version": "1.0.0",
+    "description": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

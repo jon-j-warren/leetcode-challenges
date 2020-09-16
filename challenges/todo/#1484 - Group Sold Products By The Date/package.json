@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1484",
+    "homepage": "https://leetcode.com/problems/group-sold-products-by-the-date",
+    "version": "1.0.0",
+    "description": "Group Sold Products By The Date",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

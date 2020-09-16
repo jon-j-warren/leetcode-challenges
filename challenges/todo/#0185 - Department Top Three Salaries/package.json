@@ -1,0 +1,15 @@
+{
+    "name": "challenge-185",
+    "homepage": "https://leetcode.com/problems/department-top-three-salaries",
+    "version": "1.0.0",
+    "description": "Department Top Three Salaries",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

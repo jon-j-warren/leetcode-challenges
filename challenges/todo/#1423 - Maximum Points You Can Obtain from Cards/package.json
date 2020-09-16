@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1423",
+    "homepage": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+    "version": "1.0.0",
+    "description": "Maximum Points You Can Obtain from Cards",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

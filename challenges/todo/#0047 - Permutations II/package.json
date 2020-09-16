@@ -1,0 +1,15 @@
+{
+    "name": "challenge-47",
+    "homepage": "https://leetcode.com/problems/permutations-ii",
+    "version": "1.0.0",
+    "description": "Permutations II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

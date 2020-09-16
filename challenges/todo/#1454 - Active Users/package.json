@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1454",
+    "homepage": "https://leetcode.com/problems/active-users",
+    "version": "1.0.0",
+    "description": "Active Users",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

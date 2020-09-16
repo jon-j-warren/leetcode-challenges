@@ -1,0 +1,15 @@
+{
+    "name": "challenge-57",
+    "homepage": "https://leetcode.com/problems/insert-interval",
+    "version": "1.0.0",
+    "description": "Insert Interval",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

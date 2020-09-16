@@ -1,0 +1,15 @@
+{
+    "name": "challenge-862",
+    "homepage": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k",
+    "version": "1.0.0",
+    "description": "Shortest Subarray with Sum at Least K",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

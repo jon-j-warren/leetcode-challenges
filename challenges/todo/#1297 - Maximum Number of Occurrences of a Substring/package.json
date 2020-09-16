@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1297",
+    "homepage": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+    "version": "1.0.0",
+    "description": "Maximum Number of Occurrences of a Substring",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

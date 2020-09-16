@@ -1,0 +1,15 @@
+{
+    "name": "challenge-848",
+    "homepage": "https://leetcode.com/problems/shifting-letters",
+    "version": "1.0.0",
+    "description": "Shifting Letters",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

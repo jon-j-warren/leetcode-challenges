@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1515",
+    "homepage": "https://leetcode.com/problems/best-position-for-a-service-centre",
+    "version": "1.0.0",
+    "description": "Best Position for a Service Centre",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

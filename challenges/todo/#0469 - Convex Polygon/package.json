@@ -1,0 +1,15 @@
+{
+    "name": "challenge-469",
+    "homepage": "https://leetcode.com/problems/convex-polygon",
+    "version": "1.0.0",
+    "description": "Convex Polygon",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

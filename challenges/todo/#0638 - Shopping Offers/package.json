@@ -1,0 +1,15 @@
+{
+    "name": "challenge-638",
+    "homepage": "https://leetcode.com/problems/shopping-offers",
+    "version": "1.0.0",
+    "description": "Shopping Offers",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

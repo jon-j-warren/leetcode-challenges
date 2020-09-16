@@ -1,0 +1,15 @@
+{
+    "name": "challenge-650",
+    "homepage": "https://leetcode.com/problems/2-keys-keyboard",
+    "version": "1.0.0",
+    "description": "2 Keys Keyboard",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

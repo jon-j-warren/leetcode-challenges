@@ -1,0 +1,15 @@
+{
+    "name": "challenge-213",
+    "homepage": "https://leetcode.com/problems/house-robber-ii",
+    "version": "1.0.0",
+    "description": "House Robber II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

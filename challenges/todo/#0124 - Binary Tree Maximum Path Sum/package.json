@@ -1,0 +1,15 @@
+{
+    "name": "challenge-124",
+    "homepage": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "version": "1.0.0",
+    "description": "Binary Tree Maximum Path Sum",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

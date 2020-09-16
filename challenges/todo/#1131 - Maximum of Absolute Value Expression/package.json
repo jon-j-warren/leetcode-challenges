@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1131",
+    "homepage": "https://leetcode.com/problems/maximum-of-absolute-value-expression",
+    "version": "1.0.0",
+    "description": "Maximum of Absolute Value Expression",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

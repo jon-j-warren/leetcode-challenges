@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1285",
+    "homepage": "https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges",
+    "version": "1.0.0",
+    "description": "Find the Start and End Number of Continuous Ranges",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

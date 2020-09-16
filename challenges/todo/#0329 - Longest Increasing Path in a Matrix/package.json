@@ -1,0 +1,15 @@
+{
+    "name": "challenge-329",
+    "homepage": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "version": "1.0.0",
+    "description": "Longest Increasing Path in a Matrix",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1026",
+    "homepage": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor",
+    "version": "1.0.0",
+    "description": "Maximum Difference Between Node and Ancestor",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

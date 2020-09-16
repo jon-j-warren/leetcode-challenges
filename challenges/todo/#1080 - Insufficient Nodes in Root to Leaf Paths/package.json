@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1080",
+    "homepage": "https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths",
+    "version": "1.0.0",
+    "description": "Insufficient Nodes in Root to Leaf Paths",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

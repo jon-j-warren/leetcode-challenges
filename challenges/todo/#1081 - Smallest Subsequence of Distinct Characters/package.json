@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1081",
+    "homepage": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "version": "1.0.0",
+    "description": "Smallest Subsequence of Distinct Characters",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

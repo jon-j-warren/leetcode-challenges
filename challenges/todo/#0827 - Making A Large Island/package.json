@@ -1,0 +1,15 @@
+{
+    "name": "challenge-827",
+    "homepage": "https://leetcode.com/problems/making-a-large-island",
+    "version": "1.0.0",
+    "description": "Making A Large Island",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

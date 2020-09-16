@@ -1,0 +1,15 @@
+{
+    "name": "challenge-137",
+    "homepage": "https://leetcode.com/problems/single-number-ii",
+    "version": "1.0.0",
+    "description": "Single Number II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

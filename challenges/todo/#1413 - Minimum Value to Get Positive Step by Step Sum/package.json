@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1413",
+    "homepage": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum",
+    "version": "1.0.0",
+    "description": "Minimum Value to Get Positive Step by Step Sum",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

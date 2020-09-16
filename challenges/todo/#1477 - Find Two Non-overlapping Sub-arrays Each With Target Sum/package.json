@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1477",
+    "homepage": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum",
+    "version": "1.0.0",
+    "description": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

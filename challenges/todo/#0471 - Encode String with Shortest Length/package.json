@@ -1,0 +1,15 @@
+{
+    "name": "challenge-471",
+    "homepage": "https://leetcode.com/problems/encode-string-with-shortest-length",
+    "version": "1.0.0",
+    "description": "Encode String with Shortest Length",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

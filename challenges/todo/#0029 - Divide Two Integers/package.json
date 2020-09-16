@@ -1,0 +1,15 @@
+{
+    "name": "challenge-29",
+    "homepage": "https://leetcode.com/problems/divide-two-integers",
+    "version": "1.0.0",
+    "description": "Divide Two Integers",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

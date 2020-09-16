@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1339",
+    "homepage": "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree",
+    "version": "1.0.0",
+    "description": "Maximum Product of Splitted Binary Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1502",
+    "homepage": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence",
+    "version": "1.0.0",
+    "description": "Can Make Arithmetic Progression From Sequence",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

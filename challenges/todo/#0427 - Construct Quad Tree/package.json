@@ -1,0 +1,15 @@
+{
+    "name": "challenge-427",
+    "homepage": "https://leetcode.com/problems/construct-quad-tree",
+    "version": "1.0.0",
+    "description": "Construct Quad Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

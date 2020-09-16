@@ -1,0 +1,15 @@
+{
+    "name": "challenge-117",
+    "homepage": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
+    "version": "1.0.0",
+    "description": "Populating Next Right Pointers in Each Node II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

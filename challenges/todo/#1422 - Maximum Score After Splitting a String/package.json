@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1422",
+    "homepage": "https://leetcode.com/problems/maximum-score-after-splitting-a-string",
+    "version": "1.0.0",
+    "description": "Maximum Score After Splitting a String",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

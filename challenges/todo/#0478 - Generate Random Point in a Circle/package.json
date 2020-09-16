@@ -1,0 +1,15 @@
+{
+    "name": "challenge-478",
+    "homepage": "https://leetcode.com/problems/generate-random-point-in-a-circle",
+    "version": "1.0.0",
+    "description": "Generate Random Point in a Circle",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

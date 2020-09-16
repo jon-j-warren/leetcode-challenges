@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1316",
+    "homepage": "https://leetcode.com/problems/distinct-echo-substrings",
+    "version": "1.0.0",
+    "description": "Distinct Echo Substrings",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1559",
+    "homepage": "https://leetcode.com/problems/detect-cycles-in-2d-grid",
+    "version": "1.0.0",
+    "description": "Detect Cycles in 2D Grid",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

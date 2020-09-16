@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1016",
+    "homepage": "https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n",
+    "version": "1.0.0",
+    "description": "Binary String With Substrings Representing 1 To N",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

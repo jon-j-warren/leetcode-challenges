@@ -1,0 +1,15 @@
+{
+    "name": "challenge-421",
+    "homepage": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+    "version": "1.0.0",
+    "description": "Maximum XOR of Two Numbers in an Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

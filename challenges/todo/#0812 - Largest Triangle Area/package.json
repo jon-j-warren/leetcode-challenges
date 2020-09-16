@@ -1,0 +1,15 @@
+{
+    "name": "challenge-812",
+    "homepage": "https://leetcode.com/problems/largest-triangle-area",
+    "version": "1.0.0",
+    "description": "Largest Triangle Area",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

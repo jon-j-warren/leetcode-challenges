@@ -1,0 +1,15 @@
+{
+    "name": "challenge-524",
+    "homepage": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting",
+    "version": "1.0.0",
+    "description": "Longest Word in Dictionary through Deleting",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

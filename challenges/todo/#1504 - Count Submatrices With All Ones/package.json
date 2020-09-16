@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1504",
+    "homepage": "https://leetcode.com/problems/count-submatrices-with-all-ones",
+    "version": "1.0.0",
+    "description": "Count Submatrices With All Ones",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

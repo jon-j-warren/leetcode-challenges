@@ -1,0 +1,15 @@
+{
+    "name": "challenge-404",
+    "homepage": "https://leetcode.com/problems/sum-of-left-leaves",
+    "version": "1.0.0",
+    "description": "Sum of Left Leaves",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

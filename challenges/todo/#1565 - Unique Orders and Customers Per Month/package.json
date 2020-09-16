@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1565",
+    "homepage": "https://leetcode.com/problems/unique-orders-and-customers-per-month",
+    "version": "1.0.0",
+    "description": "Unique Orders and Customers Per Month",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

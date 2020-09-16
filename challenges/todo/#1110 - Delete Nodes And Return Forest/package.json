@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1110",
+    "homepage": "https://leetcode.com/problems/delete-nodes-and-return-forest",
+    "version": "1.0.0",
+    "description": "Delete Nodes And Return Forest",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1154",
+    "homepage": "https://leetcode.com/problems/day-of-the-year",
+    "version": "1.0.0",
+    "description": "Day of the Year",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-411",
+    "homepage": "https://leetcode.com/problems/minimum-unique-word-abbreviation",
+    "version": "1.0.0",
+    "description": "Minimum Unique Word Abbreviation",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

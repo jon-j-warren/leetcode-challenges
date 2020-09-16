@@ -1,0 +1,15 @@
+{
+    "name": "challenge-380",
+    "homepage": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "version": "1.0.0",
+    "description": "Insert Delete GetRandom O(1)",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

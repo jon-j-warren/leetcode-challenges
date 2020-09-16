@@ -1,0 +1,15 @@
+{
+    "name": "challenge-902",
+    "homepage": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set",
+    "version": "1.0.0",
+    "description": "Numbers At Most N Given Digit Set",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

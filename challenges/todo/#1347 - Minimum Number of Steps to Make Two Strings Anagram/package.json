@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1347",
+    "homepage": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "version": "1.0.0",
+    "description": "Minimum Number of Steps to Make Two Strings Anagram",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

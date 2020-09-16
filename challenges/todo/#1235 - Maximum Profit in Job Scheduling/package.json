@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1235",
+    "homepage": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "version": "1.0.0",
+    "description": "Maximum Profit in Job Scheduling",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1023",
+    "homepage": "https://leetcode.com/problems/camelcase-matching",
+    "version": "1.0.0",
+    "description": "Camelcase Matching",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

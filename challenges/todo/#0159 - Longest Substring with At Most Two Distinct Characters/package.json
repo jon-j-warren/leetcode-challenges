@@ -1,0 +1,15 @@
+{
+    "name": "challenge-159",
+    "homepage": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+    "version": "1.0.0",
+    "description": "Longest Substring with At Most Two Distinct Characters",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

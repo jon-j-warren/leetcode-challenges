@@ -1,0 +1,15 @@
+{
+    "name": "challenge-149",
+    "homepage": "https://leetcode.com/problems/max-points-on-a-line",
+    "version": "1.0.0",
+    "description": "Max Points on a Line",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

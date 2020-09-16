@@ -1,0 +1,15 @@
+{
+    "name": "challenge-591",
+    "homepage": "https://leetcode.com/problems/tag-validator",
+    "version": "1.0.0",
+    "description": "Tag Validator",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

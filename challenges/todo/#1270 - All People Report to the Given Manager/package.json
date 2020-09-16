@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1270",
+    "homepage": "https://leetcode.com/problems/all-people-report-to-the-given-manager",
+    "version": "1.0.0",
+    "description": "All People Report to the Given Manager",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

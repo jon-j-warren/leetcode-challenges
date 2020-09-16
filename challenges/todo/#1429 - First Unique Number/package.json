@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1429",
+    "homepage": "https://leetcode.com/problems/first-unique-number",
+    "version": "1.0.0",
+    "description": "First Unique Number",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

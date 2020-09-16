@@ -1,0 +1,15 @@
+{
+    "name": "challenge-449",
+    "homepage": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+    "version": "1.0.0",
+    "description": "Serialize and Deserialize BST",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

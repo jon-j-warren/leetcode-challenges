@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1289",
+    "homepage": "https://leetcode.com/problems/minimum-falling-path-sum-ii",
+    "version": "1.0.0",
+    "description": "Minimum Falling Path Sum II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

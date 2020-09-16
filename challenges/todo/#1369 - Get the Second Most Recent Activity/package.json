@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1369",
+    "homepage": "https://leetcode.com/problems/get-the-second-most-recent-activity",
+    "version": "1.0.0",
+    "description": "Get the Second Most Recent Activity",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

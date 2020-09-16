@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1548",
+    "homepage": "https://leetcode.com/problems/the-most-similar-path-in-a-graph",
+    "version": "1.0.0",
+    "description": "The Most Similar Path in a Graph",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

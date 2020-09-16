@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1388",
+    "homepage": "https://leetcode.com/problems/pizza-with-3n-slices",
+    "version": "1.0.0",
+    "description": "Pizza With 3n Slices",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

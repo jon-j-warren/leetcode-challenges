@@ -1,0 +1,15 @@
+{
+    "name": "challenge-682",
+    "homepage": "https://leetcode.com/problems/baseball-game",
+    "version": "1.0.0",
+    "description": "Baseball Game",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1325",
+    "homepage": "https://leetcode.com/problems/delete-leaves-with-a-given-value",
+    "version": "1.0.0",
+    "description": "Delete Leaves With a Given Value",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

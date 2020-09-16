@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1341",
+    "homepage": "https://leetcode.com/problems/movie-rating",
+    "version": "1.0.0",
+    "description": "Movie Rating",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

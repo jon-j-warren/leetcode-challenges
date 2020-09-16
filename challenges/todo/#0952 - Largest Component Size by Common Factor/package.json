@@ -1,0 +1,15 @@
+{
+    "name": "challenge-952",
+    "homepage": "https://leetcode.com/problems/largest-component-size-by-common-factor",
+    "version": "1.0.0",
+    "description": "Largest Component Size by Common Factor",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

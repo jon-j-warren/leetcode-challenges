@@ -1,0 +1,15 @@
+{
+    "name": "challenge-145",
+    "homepage": "https://leetcode.com/problems/binary-tree-postorder-traversal",
+    "version": "1.0.0",
+    "description": "Binary Tree Postorder Traversal",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

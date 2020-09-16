@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1197",
+    "homepage": "https://leetcode.com/problems/minimum-knight-moves",
+    "version": "1.0.0",
+    "description": "Minimum Knight Moves",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

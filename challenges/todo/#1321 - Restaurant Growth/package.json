@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1321",
+    "homepage": "https://leetcode.com/problems/restaurant-growth",
+    "version": "1.0.0",
+    "description": "Restaurant Growth",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

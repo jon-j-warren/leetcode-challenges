@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1034",
+    "homepage": "https://leetcode.com/problems/coloring-a-border",
+    "version": "1.0.0",
+    "description": "Coloring A Border",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

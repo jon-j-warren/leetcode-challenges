@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1538",
+    "homepage": "https://leetcode.com/problems/guess-the-majority-in-a-hidden-array",
+    "version": "1.0.0",
+    "description": "Guess the Majority in a Hidden Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

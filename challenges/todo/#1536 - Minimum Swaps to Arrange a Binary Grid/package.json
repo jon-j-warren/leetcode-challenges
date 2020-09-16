@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1536",
+    "homepage": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid",
+    "version": "1.0.0",
+    "description": "Minimum Swaps to Arrange a Binary Grid",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1543",
+    "homepage": "https://leetcode.com/problems/fix-product-name-format",
+    "version": "1.0.0",
+    "description": "Fix Product Name Format",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

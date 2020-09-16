@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1385",
+    "homepage": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays",
+    "version": "1.0.0",
+    "description": "Find the Distance Value Between Two Arrays",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-980",
+    "homepage": "https://leetcode.com/problems/unique-paths-iii",
+    "version": "1.0.0",
+    "description": "Unique Paths III",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

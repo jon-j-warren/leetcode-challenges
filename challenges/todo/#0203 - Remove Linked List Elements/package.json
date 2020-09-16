@@ -1,0 +1,15 @@
+{
+    "name": "challenge-203",
+    "homepage": "https://leetcode.com/problems/remove-linked-list-elements",
+    "version": "1.0.0",
+    "description": "Remove Linked List Elements",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-336",
+    "homepage": "https://leetcode.com/problems/palindrome-pairs",
+    "version": "1.0.0",
+    "description": "Palindrome Pairs",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

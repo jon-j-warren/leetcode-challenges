@@ -1,0 +1,15 @@
+{
+    "name": "challenge-44",
+    "homepage": "https://leetcode.com/problems/wildcard-matching",
+    "version": "1.0.0",
+    "description": "Wildcard Matching",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

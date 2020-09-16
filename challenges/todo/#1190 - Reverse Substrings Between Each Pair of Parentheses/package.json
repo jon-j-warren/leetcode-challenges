@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1190",
+    "homepage": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses",
+    "version": "1.0.0",
+    "description": "Reverse Substrings Between Each Pair of Parentheses",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1584",
+    "homepage": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+    "version": "1.0.0",
+    "description": "Min Cost to Connect All Points",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

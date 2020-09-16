@@ -1,0 +1,15 @@
+{
+    "name": "challenge-494",
+    "homepage": "https://leetcode.com/problems/target-sum",
+    "version": "1.0.0",
+    "description": "Target Sum",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

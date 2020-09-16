@@ -1,0 +1,15 @@
+{
+    "name": "challenge-708",
+    "homepage": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
+    "version": "1.0.0",
+    "description": "Insert into a Sorted Circular Linked List",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

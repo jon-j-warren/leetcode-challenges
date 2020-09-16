@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1534",
+    "homepage": "https://leetcode.com/problems/count-good-triplets",
+    "version": "1.0.0",
+    "description": "Count Good Triplets",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1298",
+    "homepage": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes",
+    "version": "1.0.0",
+    "description": "Maximum Candies You Can Get from Boxes",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1065",
+    "homepage": "https://leetcode.com/problems/index-pairs-of-a-string",
+    "version": "1.0.0",
+    "description": "Index Pairs of a String",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-887",
+    "homepage": "https://leetcode.com/problems/super-egg-drop",
+    "version": "1.0.0",
+    "description": "Super Egg Drop",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

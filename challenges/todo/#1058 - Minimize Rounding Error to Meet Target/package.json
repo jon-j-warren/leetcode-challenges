@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1058",
+    "homepage": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target",
+    "version": "1.0.0",
+    "description": "Minimize Rounding Error to Meet Target",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

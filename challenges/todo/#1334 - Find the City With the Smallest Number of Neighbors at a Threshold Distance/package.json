@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1334",
+    "homepage": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "version": "1.0.0",
+    "description": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

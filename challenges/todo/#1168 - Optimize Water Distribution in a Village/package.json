@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1168",
+    "homepage": "https://leetcode.com/problems/optimize-water-distribution-in-a-village",
+    "version": "1.0.0",
+    "description": "Optimize Water Distribution in a Village",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

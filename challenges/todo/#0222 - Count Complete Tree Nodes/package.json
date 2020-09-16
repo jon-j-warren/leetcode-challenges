@@ -1,0 +1,15 @@
+{
+    "name": "challenge-222",
+    "homepage": "https://leetcode.com/problems/count-complete-tree-nodes",
+    "version": "1.0.0",
+    "description": "Count Complete Tree Nodes",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

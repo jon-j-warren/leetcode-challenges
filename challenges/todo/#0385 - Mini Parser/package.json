@@ -1,0 +1,15 @@
+{
+    "name": "challenge-385",
+    "homepage": "https://leetcode.com/problems/mini-parser",
+    "version": "1.0.0",
+    "description": "Mini Parser",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

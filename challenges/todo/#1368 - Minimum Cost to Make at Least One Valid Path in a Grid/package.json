@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1368",
+    "homepage": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "version": "1.0.0",
+    "description": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-981",
+    "homepage": "https://leetcode.com/problems/time-based-key-value-store",
+    "version": "1.0.0",
+    "description": "Time Based Key-Value Store",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

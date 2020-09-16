@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1188",
+    "homepage": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "version": "1.0.0",
+    "description": "Design Bounded Blocking Queue",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

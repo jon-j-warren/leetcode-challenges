@@ -1,0 +1,15 @@
+{
+    "name": "challenge-603",
+    "homepage": "https://leetcode.com/problems/consecutive-available-seats",
+    "version": "1.0.0",
+    "description": "Consecutive Available Seats",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

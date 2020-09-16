@@ -1,0 +1,15 @@
+{
+    "name": "challenge-535",
+    "homepage": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "version": "1.0.0",
+    "description": "Encode and Decode TinyURL",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

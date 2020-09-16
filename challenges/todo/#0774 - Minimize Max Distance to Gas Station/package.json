@@ -1,0 +1,15 @@
+{
+    "name": "challenge-774",
+    "homepage": "https://leetcode.com/problems/minimize-max-distance-to-gas-station",
+    "version": "1.0.0",
+    "description": "Minimize Max Distance to Gas Station",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1380",
+    "homepage": "https://leetcode.com/problems/lucky-numbers-in-a-matrix",
+    "version": "1.0.0",
+    "description": "Lucky Numbers in a Matrix",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

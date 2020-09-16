@@ -1,0 +1,15 @@
+{
+    "name": "challenge-410",
+    "homepage": "https://leetcode.com/problems/split-array-largest-sum",
+    "version": "1.0.0",
+    "description": "Split Array Largest Sum",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

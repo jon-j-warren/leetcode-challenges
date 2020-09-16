@@ -1,0 +1,15 @@
+{
+    "name": "challenge-191",
+    "homepage": "https://leetcode.com/problems/number-of-1-bits",
+    "version": "1.0.0",
+    "description": "Number of 1 Bits",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

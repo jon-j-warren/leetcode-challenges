@@ -1,0 +1,15 @@
+{
+    "name": "challenge-378",
+    "homepage": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "version": "1.0.0",
+    "description": "Kth Smallest Element in a Sorted Matrix",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1259",
+    "homepage": "https://leetcode.com/problems/handshakes-that-dont-cross",
+    "version": "1.0.0",
+    "description": "Handshakes That Don't Cross",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

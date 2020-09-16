@@ -1,0 +1,15 @@
+{
+    "name": "challenge-382",
+    "homepage": "https://leetcode.com/problems/linked-list-random-node",
+    "version": "1.0.0",
+    "description": "Linked List Random Node",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

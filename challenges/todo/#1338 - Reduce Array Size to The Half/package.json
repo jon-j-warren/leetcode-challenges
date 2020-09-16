@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1338",
+    "homepage": "https://leetcode.com/problems/reduce-array-size-to-the-half",
+    "version": "1.0.0",
+    "description": "Reduce Array Size to The Half",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

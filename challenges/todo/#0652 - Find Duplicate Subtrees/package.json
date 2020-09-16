@@ -1,0 +1,15 @@
+{
+    "name": "challenge-652",
+    "homepage": "https://leetcode.com/problems/find-duplicate-subtrees",
+    "version": "1.0.0",
+    "description": "Find Duplicate Subtrees",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

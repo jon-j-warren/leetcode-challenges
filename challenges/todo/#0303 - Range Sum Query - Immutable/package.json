@@ -1,0 +1,15 @@
+{
+    "name": "challenge-303",
+    "homepage": "https://leetcode.com/problems/range-sum-query-immutable",
+    "version": "1.0.0",
+    "description": "Range Sum Query - Immutable",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

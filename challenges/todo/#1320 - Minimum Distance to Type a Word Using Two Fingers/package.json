@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1320",
+    "homepage": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers",
+    "version": "1.0.0",
+    "description": "Minimum Distance to Type a Word Using Two Fingers",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

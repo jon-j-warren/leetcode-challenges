@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1533",
+    "homepage": "https://leetcode.com/problems/find-the-index-of-the-large-integer",
+    "version": "1.0.0",
+    "description": "Find the Index of the Large Integer",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-273",
+    "homepage": "https://leetcode.com/problems/integer-to-english-words",
+    "version": "1.0.0",
+    "description": "Integer to English Words",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

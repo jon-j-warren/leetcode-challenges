@@ -1,0 +1,15 @@
+{
+    "name": "challenge-331",
+    "homepage": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree",
+    "version": "1.0.0",
+    "description": "Verify Preorder Serialization of a Binary Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

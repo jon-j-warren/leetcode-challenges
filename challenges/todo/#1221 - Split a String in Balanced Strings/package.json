@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1221",
+    "homepage": "https://leetcode.com/problems/split-a-string-in-balanced-strings",
+    "version": "1.0.0",
+    "description": "Split a String in Balanced Strings",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

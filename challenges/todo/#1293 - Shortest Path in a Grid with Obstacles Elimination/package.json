@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1293",
+    "homepage": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "version": "1.0.0",
+    "description": "Shortest Path in a Grid with Obstacles Elimination",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

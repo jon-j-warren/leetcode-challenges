@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1196",
+    "homepage": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+    "version": "1.0.0",
+    "description": "How Many Apples Can You Put into the Basket",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

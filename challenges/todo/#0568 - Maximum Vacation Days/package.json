@@ -1,0 +1,15 @@
+{
+    "name": "challenge-568",
+    "homepage": "https://leetcode.com/problems/maximum-vacation-days",
+    "version": "1.0.0",
+    "description": "Maximum Vacation Days",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

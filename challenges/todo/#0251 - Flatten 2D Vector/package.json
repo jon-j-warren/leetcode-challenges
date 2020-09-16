@@ -1,0 +1,15 @@
+{
+    "name": "challenge-251",
+    "homepage": "https://leetcode.com/problems/flatten-2d-vector",
+    "version": "1.0.0",
+    "description": "Flatten 2D Vector",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

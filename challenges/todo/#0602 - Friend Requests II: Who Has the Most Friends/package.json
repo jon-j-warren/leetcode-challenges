@@ -1,0 +1,15 @@
+{
+    "name": "challenge-602",
+    "homepage": "https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends",
+    "version": "1.0.0",
+    "description": "Friend Requests II: Who Has the Most Friends",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

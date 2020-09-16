@@ -1,0 +1,15 @@
+{
+    "name": "challenge-734",
+    "homepage": "https://leetcode.com/problems/sentence-similarity",
+    "version": "1.0.0",
+    "description": "Sentence Similarity",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

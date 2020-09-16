@@ -1,0 +1,15 @@
+{
+    "name": "challenge-38",
+    "homepage": "https://leetcode.com/problems/count-and-say",
+    "version": "1.0.0",
+    "description": "Count and Say",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

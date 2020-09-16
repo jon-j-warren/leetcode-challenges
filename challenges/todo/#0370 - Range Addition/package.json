@@ -1,0 +1,15 @@
+{
+    "name": "challenge-370",
+    "homepage": "https://leetcode.com/problems/range-addition",
+    "version": "1.0.0",
+    "description": "Range Addition",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

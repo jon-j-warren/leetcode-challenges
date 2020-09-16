@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1018",
+    "homepage": "https://leetcode.com/problems/binary-prefix-divisible-by-5",
+    "version": "1.0.0",
+    "description": "Binary Prefix Divisible By 5",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

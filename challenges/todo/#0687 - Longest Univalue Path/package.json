@@ -1,0 +1,15 @@
+{
+    "name": "challenge-687",
+    "homepage": "https://leetcode.com/problems/longest-univalue-path",
+    "version": "1.0.0",
+    "description": "Longest Univalue Path",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

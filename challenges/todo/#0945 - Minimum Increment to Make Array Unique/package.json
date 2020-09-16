@@ -1,0 +1,15 @@
+{
+    "name": "challenge-945",
+    "homepage": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "version": "1.0.0",
+    "description": "Minimum Increment to Make Array Unique",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

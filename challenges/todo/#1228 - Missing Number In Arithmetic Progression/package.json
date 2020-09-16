@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1228",
+    "homepage": "https://leetcode.com/problems/missing-number-in-arithmetic-progression",
+    "version": "1.0.0",
+    "description": "Missing Number In Arithmetic Progression",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

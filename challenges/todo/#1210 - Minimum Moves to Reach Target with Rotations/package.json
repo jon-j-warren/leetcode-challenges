@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1210",
+    "homepage": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations",
+    "version": "1.0.0",
+    "description": "Minimum Moves to Reach Target with Rotations",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

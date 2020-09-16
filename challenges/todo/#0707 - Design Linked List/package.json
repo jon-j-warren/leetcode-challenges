@@ -1,0 +1,15 @@
+{
+    "name": "challenge-707",
+    "homepage": "https://leetcode.com/problems/design-linked-list",
+    "version": "1.0.0",
+    "description": "Design Linked List",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

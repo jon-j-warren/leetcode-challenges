@@ -1,0 +1,15 @@
+{
+    "name": "challenge-967",
+    "homepage": "https://leetcode.com/problems/numbers-with-same-consecutive-differences",
+    "version": "1.0.0",
+    "description": "Numbers With Same Consecutive Differences",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1526",
+    "homepage": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "version": "1.0.0",
+    "description": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

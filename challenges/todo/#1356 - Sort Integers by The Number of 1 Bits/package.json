@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1356",
+    "homepage": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+    "version": "1.0.0",
+    "description": "Sort Integers by The Number of 1 Bits",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

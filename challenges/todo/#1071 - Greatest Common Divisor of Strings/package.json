@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1071",
+    "homepage": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+    "version": "1.0.0",
+    "description": "Greatest Common Divisor of Strings",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

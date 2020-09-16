@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1441",
+    "homepage": "https://leetcode.com/problems/build-an-array-with-stack-operations",
+    "version": "1.0.0",
+    "description": "Build an Array With Stack Operations",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

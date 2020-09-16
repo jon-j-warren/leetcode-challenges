@@ -1,0 +1,15 @@
+{
+    "name": "challenge-197",
+    "homepage": "https://leetcode.com/problems/rising-temperature",
+    "version": "1.0.0",
+    "description": "Rising Temperature",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

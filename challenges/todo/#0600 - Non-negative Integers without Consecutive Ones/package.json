@@ -1,0 +1,15 @@
+{
+    "name": "challenge-600",
+    "homepage": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones",
+    "version": "1.0.0",
+    "description": "Non-negative Integers without Consecutive Ones",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

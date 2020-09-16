@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1574",
+    "homepage": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "version": "1.0.0",
+    "description": "Shortest Subarray to be Removed to Make Array Sorted",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

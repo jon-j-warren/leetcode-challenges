@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1253",
+    "homepage": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+    "version": "1.0.0",
+    "description": "Reconstruct a 2-Row Binary Matrix",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

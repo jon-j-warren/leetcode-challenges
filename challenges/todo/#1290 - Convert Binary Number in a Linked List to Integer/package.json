@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1290",
+    "homepage": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "version": "1.0.0",
+    "description": "Convert Binary Number in a Linked List to Integer",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

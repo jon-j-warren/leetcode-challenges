@@ -1,0 +1,15 @@
+{
+    "name": "challenge-373",
+    "homepage": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "version": "1.0.0",
+    "description": "Find K Pairs with Smallest Sums",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

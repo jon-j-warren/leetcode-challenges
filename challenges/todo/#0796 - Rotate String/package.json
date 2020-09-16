@@ -1,0 +1,15 @@
+{
+    "name": "challenge-796",
+    "homepage": "https://leetcode.com/problems/rotate-string",
+    "version": "1.0.0",
+    "description": "Rotate String",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

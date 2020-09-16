@@ -1,0 +1,15 @@
+{
+    "name": "challenge-893",
+    "homepage": "https://leetcode.com/problems/groups-of-special-equivalent-strings",
+    "version": "1.0.0",
+    "description": "Groups of Special-Equivalent Strings",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

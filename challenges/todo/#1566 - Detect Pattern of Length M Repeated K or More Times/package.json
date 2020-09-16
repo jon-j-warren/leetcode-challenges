@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1566",
+    "homepage": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+    "version": "1.0.0",
+    "description": "Detect Pattern of Length M Repeated K or More Times",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

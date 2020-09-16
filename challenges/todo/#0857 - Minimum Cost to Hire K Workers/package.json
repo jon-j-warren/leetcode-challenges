@@ -1,0 +1,15 @@
+{
+    "name": "challenge-857",
+    "homepage": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers",
+    "version": "1.0.0",
+    "description": "Minimum Cost to Hire K Workers",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

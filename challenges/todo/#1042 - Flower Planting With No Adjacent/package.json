@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1042",
+    "homepage": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
+    "version": "1.0.0",
+    "description": "Flower Planting With No Adjacent",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

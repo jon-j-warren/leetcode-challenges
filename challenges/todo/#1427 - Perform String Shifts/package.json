@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1427",
+    "homepage": "https://leetcode.com/problems/perform-string-shifts",
+    "version": "1.0.0",
+    "description": "Perform String Shifts",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

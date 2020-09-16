@@ -1,0 +1,15 @@
+{
+    "name": "challenge-73",
+    "homepage": "https://leetcode.com/problems/set-matrix-zeroes",
+    "version": "1.0.0",
+    "description": "Set Matrix Zeroes",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

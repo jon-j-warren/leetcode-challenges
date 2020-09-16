@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1106",
+    "homepage": "https://leetcode.com/problems/parsing-a-boolean-expression",
+    "version": "1.0.0",
+    "description": "Parsing A Boolean Expression",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

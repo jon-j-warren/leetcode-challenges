@@ -1,0 +1,15 @@
+{
+    "name": "challenge-558",
+    "homepage": "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees",
+    "version": "1.0.0",
+    "description": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

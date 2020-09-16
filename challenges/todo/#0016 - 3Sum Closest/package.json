@@ -1,0 +1,15 @@
+{
+    "name": "challenge-16",
+    "homepage": "https://leetcode.com/problems/3sum-closest",
+    "version": "1.0.0",
+    "description": "3Sum Closest",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

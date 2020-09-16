@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1124",
+    "homepage": "https://leetcode.com/problems/longest-well-performing-interval",
+    "version": "1.0.0",
+    "description": "Longest Well-Performing Interval",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

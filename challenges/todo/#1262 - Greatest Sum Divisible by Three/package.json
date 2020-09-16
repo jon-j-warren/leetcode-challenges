@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1262",
+    "homepage": "https://leetcode.com/problems/greatest-sum-divisible-by-three",
+    "version": "1.0.0",
+    "description": "Greatest Sum Divisible by Three",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

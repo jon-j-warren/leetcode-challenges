@@ -1,0 +1,15 @@
+{
+    "name": "challenge-105",
+    "homepage": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "version": "1.0.0",
+    "description": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

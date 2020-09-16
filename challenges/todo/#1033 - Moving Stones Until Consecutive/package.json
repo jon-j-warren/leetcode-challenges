@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1033",
+    "homepage": "https://leetcode.com/problems/moving-stones-until-consecutive",
+    "version": "1.0.0",
+    "description": "Moving Stones Until Consecutive",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

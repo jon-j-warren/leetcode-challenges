@@ -1,0 +1,15 @@
+{
+    "name": "challenge-810",
+    "homepage": "https://leetcode.com/problems/chalkboard-xor-game",
+    "version": "1.0.0",
+    "description": "Chalkboard XOR Game",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

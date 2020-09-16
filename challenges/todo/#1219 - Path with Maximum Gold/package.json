@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1219",
+    "homepage": "https://leetcode.com/problems/path-with-maximum-gold",
+    "version": "1.0.0",
+    "description": "Path with Maximum Gold",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

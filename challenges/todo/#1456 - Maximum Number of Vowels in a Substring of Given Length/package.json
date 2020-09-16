@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1456",
+    "homepage": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+    "version": "1.0.0",
+    "description": "Maximum Number of Vowels in a Substring of Given Length",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

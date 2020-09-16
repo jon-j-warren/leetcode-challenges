@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1489",
+    "homepage": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+    "version": "1.0.0",
+    "description": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

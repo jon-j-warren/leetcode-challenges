@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1306",
+    "homepage": "https://leetcode.com/problems/jump-game-iii",
+    "version": "1.0.0",
+    "description": "Jump Game III",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

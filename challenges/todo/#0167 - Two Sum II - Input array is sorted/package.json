@@ -1,0 +1,15 @@
+{
+    "name": "challenge-167",
+    "homepage": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "version": "1.0.0",
+    "description": "Two Sum II - Input array is sorted",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

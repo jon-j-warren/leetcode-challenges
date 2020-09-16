@@ -3,8 +3,8 @@ import fs from 'fs';
 
 import challenges from './challenges.json';
 
-for (let i=0; i<5; i++) {
-    const folderName = `#${challenges[i].id.toString().padStart(4, '0')} - ${challenges[i].title}`;
+for (let i=0; i<challenges.length; i++) {
+    const folderName = `#${challenges[i].id.toString().padStart(4, '0')} - ${challenges[i].title}`.replace(/\//g, '-');
     if (!fs.existsSync(`../challenges/todo/${folderName}`) && !fs.existsSync(`../challenges/complete/${folderName}`)) {
         try {
             const question = (await (await fetch("https://leetcode.com/graphql", {
@@ -38,7 +38,6 @@ for (let i=0; i<5; i++) {
             fs.writeFileSync(`../challenges/todo/${folderName}/solution.js`, '');
             fs.writeFileSync(`../challenges/todo/${folderName}/solution.test.js`, '');
             fs.writeFileSync(`../challenges/todo/${folderName}/template.js`, '');
-            break;
         } catch (err) {
             console.log(err);
         }

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-95",
+    "homepage": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "version": "1.0.0",
+    "description": "Unique Binary Search Trees II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

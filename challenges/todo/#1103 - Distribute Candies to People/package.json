@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1103",
+    "homepage": "https://leetcode.com/problems/distribute-candies-to-people",
+    "version": "1.0.0",
+    "description": "Distribute Candies to People",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

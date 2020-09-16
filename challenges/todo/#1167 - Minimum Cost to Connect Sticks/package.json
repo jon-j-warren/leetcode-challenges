@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1167",
+    "homepage": "https://leetcode.com/problems/minimum-cost-to-connect-sticks",
+    "version": "1.0.0",
+    "description": "Minimum Cost to Connect Sticks",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

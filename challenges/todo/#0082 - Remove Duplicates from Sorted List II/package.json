@@ -1,0 +1,15 @@
+{
+    "name": "challenge-82",
+    "homepage": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "version": "1.0.0",
+    "description": "Remove Duplicates from Sorted List II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

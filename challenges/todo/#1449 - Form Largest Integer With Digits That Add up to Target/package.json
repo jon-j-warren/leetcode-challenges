@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1449",
+    "homepage": "https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target",
+    "version": "1.0.0",
+    "description": "Form Largest Integer With Digits That Add up to Target",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

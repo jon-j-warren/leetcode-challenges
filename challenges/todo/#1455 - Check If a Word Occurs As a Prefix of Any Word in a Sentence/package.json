@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1455",
+    "homepage": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "version": "1.0.0",
+    "description": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1157",
+    "homepage": "https://leetcode.com/problems/online-majority-element-in-subarray",
+    "version": "1.0.0",
+    "description": "Online Majority Element In Subarray",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

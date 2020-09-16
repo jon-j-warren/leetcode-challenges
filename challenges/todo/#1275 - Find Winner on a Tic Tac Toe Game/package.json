@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1275",
+    "homepage": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game",
+    "version": "1.0.0",
+    "description": "Find Winner on a Tic Tac Toe Game",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

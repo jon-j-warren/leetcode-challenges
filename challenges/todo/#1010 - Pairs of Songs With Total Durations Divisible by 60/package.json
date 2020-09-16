@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1010",
+    "homepage": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "version": "1.0.0",
+    "description": "Pairs of Songs With Total Durations Divisible by 60",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

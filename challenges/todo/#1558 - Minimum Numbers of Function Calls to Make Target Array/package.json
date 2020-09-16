@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1558",
+    "homepage": "https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array",
+    "version": "1.0.0",
+    "description": "Minimum Numbers of Function Calls to Make Target Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1546",
+    "homepage": "https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target",
+    "version": "1.0.0",
+    "description": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

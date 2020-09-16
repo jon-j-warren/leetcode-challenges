@@ -1,0 +1,15 @@
+{
+    "name": "challenge-513",
+    "homepage": "https://leetcode.com/problems/find-bottom-left-tree-value",
+    "version": "1.0.0",
+    "description": "Find Bottom Left Tree Value",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

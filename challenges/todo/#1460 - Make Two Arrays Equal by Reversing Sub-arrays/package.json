@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1460",
+    "homepage": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays",
+    "version": "1.0.0",
+    "description": "Make Two Arrays Equal by Reversing Sub-arrays",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

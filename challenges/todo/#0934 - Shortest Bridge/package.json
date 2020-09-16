@@ -1,0 +1,15 @@
+{
+    "name": "challenge-934",
+    "homepage": "https://leetcode.com/problems/shortest-bridge",
+    "version": "1.0.0",
+    "description": "Shortest Bridge",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

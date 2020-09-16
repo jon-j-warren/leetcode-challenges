@@ -1,0 +1,15 @@
+{
+    "name": "challenge-693",
+    "homepage": "https://leetcode.com/problems/binary-number-with-alternating-bits",
+    "version": "1.0.0",
+    "description": "Binary Number with Alternating Bits",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

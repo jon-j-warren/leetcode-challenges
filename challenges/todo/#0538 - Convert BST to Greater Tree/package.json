@@ -1,0 +1,15 @@
+{
+    "name": "challenge-538",
+    "homepage": "https://leetcode.com/problems/convert-bst-to-greater-tree",
+    "version": "1.0.0",
+    "description": "Convert BST to Greater Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

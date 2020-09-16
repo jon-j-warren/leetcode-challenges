@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1299",
+    "homepage": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side",
+    "version": "1.0.0",
+    "description": "Replace Elements with Greatest Element on Right Side",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

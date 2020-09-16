@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1391",
+    "homepage": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+    "version": "1.0.0",
+    "description": "Check if There is a Valid Path in a Grid",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1277",
+    "homepage": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+    "version": "1.0.0",
+    "description": "Count Square Submatrices with All Ones",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1576",
+    "homepage": "https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters",
+    "version": "1.0.0",
+    "description": "Replace All ?'s to Avoid Consecutive Repeating Characters",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

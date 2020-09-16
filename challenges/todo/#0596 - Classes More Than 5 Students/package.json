@@ -1,0 +1,15 @@
+{
+    "name": "challenge-596",
+    "homepage": "https://leetcode.com/problems/classes-more-than-5-students",
+    "version": "1.0.0",
+    "description": "Classes More Than 5 Students",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

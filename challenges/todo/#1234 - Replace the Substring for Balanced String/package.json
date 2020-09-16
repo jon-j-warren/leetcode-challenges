@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1234",
+    "homepage": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+    "version": "1.0.0",
+    "description": "Replace the Substring for Balanced String",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

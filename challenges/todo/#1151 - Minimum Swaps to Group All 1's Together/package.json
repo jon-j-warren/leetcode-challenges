@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1151",
+    "homepage": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together",
+    "version": "1.0.0",
+    "description": "Minimum Swaps to Group All 1's Together",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

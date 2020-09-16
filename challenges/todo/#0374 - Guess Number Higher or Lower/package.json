@@ -1,0 +1,15 @@
+{
+    "name": "challenge-374",
+    "homepage": "https://leetcode.com/problems/guess-number-higher-or-lower",
+    "version": "1.0.0",
+    "description": "Guess Number Higher or Lower",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

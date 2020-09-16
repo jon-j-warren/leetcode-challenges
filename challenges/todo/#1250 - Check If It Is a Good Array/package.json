@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1250",
+    "homepage": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "version": "1.0.0",
+    "description": "Check If It Is a Good Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

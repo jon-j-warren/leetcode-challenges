@@ -1,0 +1,15 @@
+{
+    "name": "challenge-272",
+    "homepage": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "version": "1.0.0",
+    "description": "Closest Binary Search Tree Value II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

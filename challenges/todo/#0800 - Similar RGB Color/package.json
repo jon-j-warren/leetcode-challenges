@@ -1,0 +1,15 @@
+{
+    "name": "challenge-800",
+    "homepage": "https://leetcode.com/problems/similar-rgb-color",
+    "version": "1.0.0",
+    "description": "Similar RGB Color",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

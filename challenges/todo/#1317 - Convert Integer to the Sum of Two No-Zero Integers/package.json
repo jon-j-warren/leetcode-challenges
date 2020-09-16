@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1317",
+    "homepage": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+    "version": "1.0.0",
+    "description": "Convert Integer to the Sum of Two No-Zero Integers",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

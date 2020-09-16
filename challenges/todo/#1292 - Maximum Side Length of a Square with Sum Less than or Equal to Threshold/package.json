@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1292",
+    "homepage": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "version": "1.0.0",
+    "description": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-11",
+    "homepage": "https://leetcode.com/problems/container-with-most-water",
+    "version": "1.0.0",
+    "description": "Container With Most Water",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

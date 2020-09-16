@@ -1,0 +1,15 @@
+{
+    "name": "challenge-424",
+    "homepage": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "version": "1.0.0",
+    "description": "Longest Repeating Character Replacement",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

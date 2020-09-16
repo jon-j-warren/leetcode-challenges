@@ -1,0 +1,15 @@
+{
+    "name": "challenge-412",
+    "homepage": "https://leetcode.com/problems/fizz-buzz",
+    "version": "1.0.0",
+    "description": "Fizz Buzz",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1240",
+    "homepage": "https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares",
+    "version": "1.0.0",
+    "description": "Tiling a Rectangle with the Fewest Squares",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

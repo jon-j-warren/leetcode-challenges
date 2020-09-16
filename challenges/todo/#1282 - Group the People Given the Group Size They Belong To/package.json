@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1282",
+    "homepage": "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to",
+    "version": "1.0.0",
+    "description": "Group the People Given the Group Size They Belong To",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

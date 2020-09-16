@@ -1,0 +1,15 @@
+{
+    "name": "challenge-573",
+    "homepage": "https://leetcode.com/problems/squirrel-simulation",
+    "version": "1.0.0",
+    "description": "Squirrel Simulation",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

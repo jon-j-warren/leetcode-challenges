@@ -1,0 +1,15 @@
+{
+    "name": "challenge-443",
+    "homepage": "https://leetcode.com/problems/string-compression",
+    "version": "1.0.0",
+    "description": "String Compression",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

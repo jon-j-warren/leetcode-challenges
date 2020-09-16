@@ -1,0 +1,15 @@
+{
+    "name": "challenge-741",
+    "homepage": "https://leetcode.com/problems/cherry-pickup",
+    "version": "1.0.0",
+    "description": "Cherry Pickup",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

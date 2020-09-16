@@ -1,0 +1,15 @@
+{
+    "name": "challenge-911",
+    "homepage": "https://leetcode.com/problems/online-election",
+    "version": "1.0.0",
+    "description": "Online Election",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

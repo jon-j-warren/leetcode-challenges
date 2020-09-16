@@ -1,0 +1,15 @@
+{
+    "name": "challenge-587",
+    "homepage": "https://leetcode.com/problems/erect-the-fence",
+    "version": "1.0.0",
+    "description": "Erect the Fence",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

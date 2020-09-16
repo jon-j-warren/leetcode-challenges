@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1295",
+    "homepage": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits",
+    "version": "1.0.0",
+    "description": "Find Numbers with Even Number of Digits",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

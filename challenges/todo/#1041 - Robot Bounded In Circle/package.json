@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1041",
+    "homepage": "https://leetcode.com/problems/robot-bounded-in-circle",
+    "version": "1.0.0",
+    "description": "Robot Bounded In Circle",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

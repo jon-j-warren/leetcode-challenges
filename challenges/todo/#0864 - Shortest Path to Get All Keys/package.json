@@ -1,0 +1,15 @@
+{
+    "name": "challenge-864",
+    "homepage": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "version": "1.0.0",
+    "description": "Shortest Path to Get All Keys",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

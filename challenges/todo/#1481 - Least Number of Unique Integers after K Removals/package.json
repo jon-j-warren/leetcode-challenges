@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1481",
+    "homepage": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "version": "1.0.0",
+    "description": "Least Number of Unique Integers after K Removals",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

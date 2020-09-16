@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1170",
+    "homepage": "https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character",
+    "version": "1.0.0",
+    "description": "Compare Strings by Frequency of the Smallest Character",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

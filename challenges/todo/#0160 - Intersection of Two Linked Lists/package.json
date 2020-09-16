@@ -1,0 +1,15 @@
+{
+    "name": "challenge-160",
+    "homepage": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "version": "1.0.0",
+    "description": "Intersection of Two Linked Lists",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1117",
+    "homepage": "https://leetcode.com/problems/building-h2o",
+    "version": "1.0.0",
+    "description": "Building H2O",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

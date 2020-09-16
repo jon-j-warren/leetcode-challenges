@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1011",
+    "homepage": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "version": "1.0.0",
+    "description": "Capacity To Ship Packages Within D Days",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

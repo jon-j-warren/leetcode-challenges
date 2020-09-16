@@ -1,0 +1,15 @@
+{
+    "name": "challenge-151",
+    "homepage": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "version": "1.0.0",
+    "description": "Reverse Words in a String",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

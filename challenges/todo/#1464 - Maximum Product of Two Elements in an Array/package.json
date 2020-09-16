@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1464",
+    "homepage": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array",
+    "version": "1.0.0",
+    "description": "Maximum Product of Two Elements in an Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

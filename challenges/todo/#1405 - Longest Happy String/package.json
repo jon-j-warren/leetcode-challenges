@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1405",
+    "homepage": "https://leetcode.com/problems/longest-happy-string",
+    "version": "1.0.0",
+    "description": "Longest Happy String",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

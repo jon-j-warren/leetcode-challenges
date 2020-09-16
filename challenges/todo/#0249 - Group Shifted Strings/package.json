@@ -1,0 +1,15 @@
+{
+    "name": "challenge-249",
+    "homepage": "https://leetcode.com/problems/group-shifted-strings",
+    "version": "1.0.0",
+    "description": "Group Shifted Strings",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

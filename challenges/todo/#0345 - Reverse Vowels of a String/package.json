@@ -1,0 +1,15 @@
+{
+    "name": "challenge-345",
+    "homepage": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+    "version": "1.0.0",
+    "description": "Reverse Vowels of a String",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

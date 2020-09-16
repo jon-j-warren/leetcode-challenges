@@ -1,0 +1,15 @@
+{
+    "name": "challenge-515",
+    "homepage": "https://leetcode.com/problems/find-largest-value-in-each-tree-row",
+    "version": "1.0.0",
+    "description": "Find Largest Value in Each Tree Row",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

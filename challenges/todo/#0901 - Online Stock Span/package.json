@@ -1,0 +1,15 @@
+{
+    "name": "challenge-901",
+    "homepage": "https://leetcode.com/problems/online-stock-span",
+    "version": "1.0.0",
+    "description": "Online Stock Span",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

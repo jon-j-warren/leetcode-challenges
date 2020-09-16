@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1096",
+    "homepage": "https://leetcode.com/problems/brace-expansion-ii",
+    "version": "1.0.0",
+    "description": "Brace Expansion II",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

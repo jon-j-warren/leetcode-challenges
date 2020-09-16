@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1497",
+    "homepage": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+    "version": "1.0.0",
+    "description": "Check If Array Pairs Are Divisible by k",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

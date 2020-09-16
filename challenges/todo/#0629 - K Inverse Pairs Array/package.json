@@ -1,0 +1,15 @@
+{
+    "name": "challenge-629",
+    "homepage": "https://leetcode.com/problems/k-inverse-pairs-array",
+    "version": "1.0.0",
+    "description": "K Inverse Pairs Array",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1312",
+    "homepage": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+    "version": "1.0.0",
+    "description": "Minimum Insertion Steps to Make a String Palindrome",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

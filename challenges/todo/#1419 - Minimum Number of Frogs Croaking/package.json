@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1419",
+    "homepage": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+    "version": "1.0.0",
+    "description": "Minimum Number of Frogs Croaking",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

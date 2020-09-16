@@ -1,0 +1,15 @@
+{
+    "name": "challenge-372",
+    "homepage": "https://leetcode.com/problems/super-pow",
+    "version": "1.0.0",
+    "description": "Super Pow",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

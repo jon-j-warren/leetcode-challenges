@@ -1,0 +1,15 @@
+{
+    "name": "challenge-260",
+    "homepage": "https://leetcode.com/problems/single-number-iii",
+    "version": "1.0.0",
+    "description": "Single Number III",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

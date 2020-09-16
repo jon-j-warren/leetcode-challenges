@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1402",
+    "homepage": "https://leetcode.com/problems/reducing-dishes",
+    "version": "1.0.0",
+    "description": "Reducing Dishes",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1013",
+    "homepage": "https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum",
+    "version": "1.0.0",
+    "description": "Partition Array Into Three Parts With Equal Sum",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "challenge-261",
+    "homepage": "https://leetcode.com/problems/graph-valid-tree",
+    "version": "1.0.0",
+    "description": "Graph Valid Tree",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}

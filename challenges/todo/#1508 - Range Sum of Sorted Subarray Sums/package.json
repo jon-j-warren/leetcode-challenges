@@ -1,0 +1,15 @@
+{
+    "name": "challenge-1508",
+    "homepage": "https://leetcode.com/problems/range-sum-of-sorted-subarray-sums",
+    "version": "1.0.0",
+    "description": "Range Sum of Sorted Subarray Sums",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jon Warren",
+    "license": "ISC",
+    "devDependencies": {
+        "jest-cli": "^26.4.2"
+    }
+}
