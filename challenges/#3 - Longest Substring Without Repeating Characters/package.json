@@ -1,0 +1,14 @@
+{
+  "name": "challenge-3",
+  "version": "1.0.0",
+  "description": "Longest Substring Without Repeating Characters",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jon Warren",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^26.4.2"
+  }
+}
