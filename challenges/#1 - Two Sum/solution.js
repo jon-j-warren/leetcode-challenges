@@ -18,6 +18,8 @@ const twoSum = (nums, target) => {
     }
 };
 
+module.exports = { twoSum };
+
 /*
     * Avoided using a forEach loop since I wanted to return the function value from within the loop.
     * Was hoping to covert nums to a set to make use of an O(1) lookup time, but given the constraints, it looks like
