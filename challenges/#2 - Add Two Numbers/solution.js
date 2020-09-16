@@ -3,13 +3,12 @@
  Memory Usage: 42.1 MB, less than 81.08% of JavaScript online submissions for Add Two Numbers.
 */
 
-/**
- * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.next = (next===undefined ? null : next)
- * }
- */
+// Definition for singly-linked list.
+function ListNode(val, next) {
+    this.val = (val===undefined ? 0 : val)
+    this.next = (next===undefined ? null : next)
+}
+
 /**
  * @param {ListNode} l1
  * @param {ListNode} l2
@@ -39,6 +38,8 @@ const addTwoNumbers = (l1, l2) => {
 
     return startingNode;
 };
+
+module.exports = { addTwoNumbers, ListNode };
 
 /*
     * My first few solutions involved iterating through the values and adding the value * 10^depth, but I quickly
