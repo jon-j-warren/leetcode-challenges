@@ -20,9 +20,9 @@
 <strong>Output:</strong> 3
 <strong>Explanation:</strong>
 From the top-left corner, there are a total of 3 ways to reach the bottom-right corner:
-1. Right -&gt; Right -&gt; Down
-2. Right -&gt; Down -&gt; Right
-3. Down -&gt; Right -&gt; Right
+1. Right -&gt; Down -&gt; Down
+2. Down -&gt; Down -&gt; Right
+3. Down -&gt; Right -&gt; Down
 </pre>
 
 <p><strong>Example 3:</strong></p>

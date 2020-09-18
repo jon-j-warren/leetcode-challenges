@@ -4,7 +4,8 @@
   "description": "Generates the boilerplate for the challenge solutions",
   "main": "fetch_questions.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch_questions": "node --experimental-json-modules fetch_questions.mjs"
   },
   "author": "",
   "license": "ISC",
